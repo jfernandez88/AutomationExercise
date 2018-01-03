@@ -16,7 +16,8 @@ Requisitos para ejecutar Test:
 Pasos para importar el proyecto:
 
 1- Descargar la carpeta completa de este repositorio compartido "AutomationExercise".
-2- Copiarla en el C: (Esto es para simplificar las dependencias con las librerias de selenium y los drivers).
+2- Copiar "AutomationExercise" en el C: (Esto es para simplificar las dependencias con las librerias de selenium y los drivers).
+   Deberia quedar: "C:\AutomationExercise"
 3- Usar el C: como workspace en Eclipse e importar el proyecto.
 
 Descripción de la estructura del proyecto:
